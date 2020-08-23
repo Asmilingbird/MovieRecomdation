@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/businessServer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/businessServer2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/commonmodel" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/coremodel" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/recommender" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/recommender/dataloder" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/recommender/kafkaStream" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/recommender/offlineRecommender" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/recommender/statisticsRecommender" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/recommender/streamingRecommender" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/website" charset="UTF-8" />
+  </component>
+</project>

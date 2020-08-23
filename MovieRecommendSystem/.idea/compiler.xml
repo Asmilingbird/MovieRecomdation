@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="kafkaStream" />
+        <module name="offlineRecommender" />
+        <module name="dataloder" />
+        <module name="streamingRecommender" />
+        <module name="businessServer" />
+        <module name="businessServer2" />
+        <module name="statisticsRecommender" />
+        <module name="website" />
+        <module name="coremodel" />
+        <module name="commonmodel" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
